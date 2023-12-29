@@ -8,19 +8,19 @@ This is an app for taking notes for courses you have in school. The app is writt
 
 To install the necessary packages, run the following command:
 
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ## Usage
 
 To start the development server, run:
 
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
-Then navigate to localhost:5173 in your browser.
+Then navigate to ``localhost:5173`` in your browser.
 
 ## FYI
 
